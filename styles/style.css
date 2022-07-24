@@ -1,12 +1,16 @@
 body{
-  font-family:Georgia, 'Times New Roman', Times, serif;
-  background-color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif, ;
 }
 section{
-  display:flex
+  background-color: black;
+  display:flex;
+  width: 1000px;
+  height: 500px;
+  padding-left:20px;
+  border-radius: 30px;
 }
 .blog{
-  width: 500px;
+  width: 600px;
   height: 500p;
 }
 h1{
