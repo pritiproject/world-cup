@@ -1,0 +1,24 @@
+body{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: black;
+}
+section{
+  display:flex
+}
+.blog{
+  width: 500px;
+  height: 500p;
+}
+h1{
+  font-size: 40px;
+  color:white;
+}
+p{
+  font-size: 25px;
+  color:antiquewhite;
+}
+a{
+  background-color: crimson;
+  width: 500px;
+  color: azure;
+}
